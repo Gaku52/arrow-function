@@ -13,11 +13,29 @@ IEなどで使う場合にはBabelなどで変換を必要
 
 ## 使用方法
 
+通常の関数
+
+```code
+function tax(number) {
+  return number * 1.08;
+}
+```
+
+アロー関数は、functionを書かなくてよい代わりに引数の後ろに 「=>」を記述する。
+
+```code
+const tax = (number) => {
+  return number * 1.08;
+}
+```
+
+で記述が可能。
+
 ## 構築・インストール方法
 
--
+1.index.html,style.css,script.jsの作成
 
-## 参照
+## 参考サイト
 
 1.[アロー（arrow）関数について解説！ES6（ES2015）で追加された新しい書き方を学びましょう！](https://www.youtube.com/watch?v=pp_0uM-dy68&t=121s)  
 2.[VsCodeでマークダウンファイル(.md)を快適に使用するTips](https://maasaablog.com/tools/visual-studio-code/1762/)  
@@ -25,6 +43,11 @@ IEなどで使う場合にはBabelなどで変換を必要
 
 ## 作者
 
+Gaku52
+
 ## 作成日時
 
 2022-10-08 00:19:09
+2022-10-08 21:16:07
+2022-10-08 22:16:56
+2022-10-08 22:25:59
