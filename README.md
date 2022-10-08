@@ -35,7 +35,7 @@ const tax = (number) => {
 
 1.index.html,style.css,script.jsの作成
 
-## 参考サイト様
+## 参考サイト
 
 1.[アロー（arrow）関数について解説！ES6（ES2015）で追加された新しい書き方を学びましょう！](https://www.youtube.com/watch?v=pp_0uM-dy68&t=121s)  
 2.[VsCodeでマークダウンファイル(.md)を快適に使用するTips](https://maasaablog.com/tools/visual-studio-code/1762/)  
@@ -49,3 +49,4 @@ Gaku52
 
 2022-10-08 00:19:09
 2022-10-08 21:16:07
+2022-10-08 22:16:56
